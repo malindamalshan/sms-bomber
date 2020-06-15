@@ -27,7 +27,7 @@ print("")
 
 
     
-number = int(input("\033[1;37m""@ Enter phone number with international format  - "))
+number = int(input("\033[1;37m""@ Enter phone number with international format (94xxxxxxxxx) - "))
 
 
 url = 'https://www.airbnb.com/api/v2/phone_one_time_passwords?currency=USD&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en'
