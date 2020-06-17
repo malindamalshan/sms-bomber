@@ -22,7 +22,7 @@ print("\033[0;36m ""      //  //        //              //                    //
 print("\033[0;36m "" /////// //        //         ////////                    //        //////////  //////////  //////////")
 print("\033[0;35m ""                                          [TOOL BY MEGARUN] ")
 print("")
-print("\033[1;33m ""#YOU CAN SEND 10 MESSAGE ONLY ONE NUMBER")
+print("\033[1;33m ""#YOU CAN SEND 10 MESSAGE ONLY ONE NUMBER (one days)")
 print("\033[0;32m ""#OUT PUT = 200  message was sent successfully")
 print("\033[1;31m ""#OUT PUT = 400  LIMITED ")
 print("")
