@@ -1,8 +1,5 @@
-import urllib.request
-import json
 import requests
 import os
-import urllib
 import sys
 import time
 
